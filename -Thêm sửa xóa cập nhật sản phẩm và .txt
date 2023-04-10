@@ -1,0 +1,4 @@
+làm Được:
+-Thêm sửa xóa cập nhật sản phẩm và danh mục;
+-Đăng kí đăng nhập, đăng xuất
+Chưa làm được: validate client ,tìm kiếm , giỏ hàng
