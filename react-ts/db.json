@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product1",
+      "price": 1000,
+      "img": "https://picsum.photos/200/300.jpg",
+      "cateId": "1"
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "price": 1000,
+      "img": "https://picsum.photos/200/300.jpg",
+      "cateId": "1"
+    },
+    {
+      "name": "hoa",
+      "price": "1000000",
+      "cateId": "mao",
+      "img": "https://res.cloudinary.com/ddn4r33s3/image/upload/v1680712253/dampjhbka4ilrkstvfhu.jpg",
+      "id": 8
+    },
+    {
+      "id": 10,
+      "name": "hoa",
+      "price": "1000000",
+      "cateId": "demo",
+      "img": "https://res.cloudinary.com/ddn4r33s3/image/upload/v1680752476/dpv5reh1h98cxguqiqo8.jpg"
+    }
+  ],
+  "cate": [
+    {
+      "id": 1,
+      "name": "new"
+    },
+    {
+      "id": 2,
+      "name": "new 99"
+    }
+  ],
+  "user":[
+    {
+      "id":1,
+      "username":"admin",
+      "pass:":"123456",
+      "role":"admin"
+    },
+    {
+      "id":2,
+      "username":"member",
+      "pass:":"123456",
+      "role":"member"
+    }
+  ]
+}
